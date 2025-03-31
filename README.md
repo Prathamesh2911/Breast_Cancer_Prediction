@@ -1,0 +1,2 @@
+# Breast_Cancer_Prediction
+ Breast cancer prediction involves using machine learning algorithms to analyze patient data (such as tumor size, shape, and texture) to predict whether a tumor is malignant or benign. This is typically done through datasets like the Wisconsin Breast Cancer Dataset (WBCD), which helps in diagnosing and classifying cancer to assist healthcare professionals in early detection and treatment planning.
