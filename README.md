@@ -24,4 +24,16 @@ You can download the dataset from [Dataset Source Link](https://archive.ics.uci.
 
 Make sure to place the dataset file in the root directory before running the code.
 
+## Results
+- **Confusion Matrix**:  
+  Provides insight into the model's predictions by showing the number of correct and incorrect classifications for each class. In this project, the Confusion Matrix resulted in:
+This indicates high accuracy in predicting malignant and benign cases.
+
+- **Accuracy Score**:  
+Reflects the overall performance of the model. The Logistic Regression model achieved an accuracy of **95.62%** on the test dataset.
+
+- **Cross-Validation Accuracy**:  
+Ensures consistency across multiple subsets of the training data. Using k-Fold Cross Validation, the model demonstrated an average accuracy of **96.70%** with a standard deviation of **1.97%**.
+
+
 
